@@ -1,0 +1,12 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\07 Pertemuan 7\to mhs\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\07\to mhs 2022\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
